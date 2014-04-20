@@ -1,3 +1,5 @@
+how did the txt file can not be uploaded then ?
+
 This is a just a test project.
 The mainly purpose for this project is to firstly get to know the git_project_setup in remote server(github).
 
